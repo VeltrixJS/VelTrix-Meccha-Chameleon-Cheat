@@ -5,16 +5,24 @@ Un logiciel de triche externe pour Windows. Conçu avec un scanner de signatures
 ## Aperçu du Logiciel
 
 ### Terminal de contrôle
-!(<img width="1110" height="622" alt="Capture d&#39;écran 2026-06-18 210643" src="https://github.com/user-attachments/assets/7e7b9ecc-3224-47eb-9653-5f672d79a85a" />
-)
+<img width="974" height="507" alt="Capture d&#39;écran 2026-06-18 221509" src="https://github.com/user-attachments/assets/cbe02a67-b2bb-4536-a0bd-6c0fd6128f62" />
+
+### Rendu en jeu
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/2f82c162-445f-42b1-9131-c3d1894cdef0" />
 
 ### Catégories de l'interface
-* **Configuration ESP :** (<img width="297" height="388" alt="Capture d&#39;écran 2026-06-18 210700" src="https://github.com/user-attachments/assets/c8ae0a37-a2d6-408c-94c0-d66a0e72a00c" />
-)
-* **Configuration Aimbot :** !(<img width="296" height="266" alt="Capture d&#39;écran 2026-06-18 210724" src="https://github.com/user-attachments/assets/58bb6fc0-7649-4d8c-83b5-1a6e870e1cba" />
-)
-* **Configuration Colors :** !(<img width="297" height="358" alt="Capture d&#39;écran 2026-06-18 210737" src="https://github.com/user-attachments/assets/f74a9b59-43f6-47a5-9cc3-c0992fc1bd5c" />
-)
+* **Configuration ESP :**
+
+  <img width="297" height="388" alt="Capture d&#39;écran 2026-06-18 210700" src="https://github.com/user-attachments/assets/c8ae0a37-a2d6-408c-94c0-d66a0e72a00c" />
+
+* **Configuration Aimbot :**
+
+  <img width="296" height="266" alt="Capture d&#39;écran 2026-06-18 210724" src="https://github.com/user-attachments/assets/58bb6fc0-7649-4d8c-83b5-1a6e870e1cba" />
+
+* **Configuration Colors :**
+
+  <img width="297" height="358" alt="Capture d&#39;écran 2026-06-18 210737" src="https://github.com/user-attachments/assets/f74a9b59-43f6-47a5-9cc3-c0992fc1bd5c" />
+
 
 ---
 
