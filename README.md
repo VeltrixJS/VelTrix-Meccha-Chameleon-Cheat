@@ -1,6 +1,6 @@
 # Veltrix Mecha-Chameleon | External Cheat & Overlay
 
-Un logiciel de triche (cheat) externe et autonome pour Windows. Conçu avec un scanner de signatures dynamique, il intègre un système d'assistance à la visée (aimbot) et un affichage visuel superposé (ESP/Overlay) via l'API graphique GDI de Windows.
+Un logiciel de triche externe pour Windows. Conçu avec un scanner de signatures dynamique, il intègre un système d'assistance à la visée (aimbot) et un affichage visuel superposé (ESP/Overlay).
 
 ##  Téléchargement et Utilisation
 
