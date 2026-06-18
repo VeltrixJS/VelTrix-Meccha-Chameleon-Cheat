@@ -8,7 +8,8 @@ Un logiciel de triche externe pour Windows. Conçu avec un scanner de signatures
 <img width="974" height="507" alt="Capture d&#39;écran 2026-06-18 221509" src="https://github.com/user-attachments/assets/cbe02a67-b2bb-4536-a0bd-6c0fd6128f62" />
 
 ### Rendu en jeu
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/2f82c162-445f-42b1-9131-c3d1894cdef0" />
+<img width="1914" height="1071" alt="image" src="https://github.com/user-attachments/assets/5a133e3a-2f61-4b5d-ac50-beff526e9be6" />
+
 
 ### Catégories de l'interface
 * **Configuration ESP :**
